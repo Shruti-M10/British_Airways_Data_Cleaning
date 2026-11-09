@@ -1,0 +1,6 @@
+# Ignore the virtual environment directory
+.venv/
+venv/
+
+# Ignore the HTML report file
+British-Airways-Feedback-Report.html
